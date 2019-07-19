@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>EnterpriseLibrary.Logging.Serilog</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Chui Tey</authors>
+    <owners></owners>
+    <licenseUrl>https://github.com/teyc/EnterpriseLibrary.Logging.Serilog/LICENSE.TXT</licenseUrl>
+    <projectUrl>https://github.com/teyc/EnterpriseLibrary.Logging.Serilog</projectUrl>
+    <iconUrl>https://github.com/teyc/EnterpriseLibrary.Logging.Serilog/EnterpriseLibrary.Logging.Serilog/EnterpriseLibrary.Logging.Serilog.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Supports sending Enterprise Library log calls through Serilog</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>lab logging entlib Enterprise LOB tracing Library Serilog</tags>
+  </metadata>
+  <files>
+    <!--<file src="EnterpriseLibrary.Logging.Serilog.*" target="lib/net45" />-->
+    <file src="tools\*" target="tools" />
+    <file src="README.txt" target="." />
+  </files>
+</package>
