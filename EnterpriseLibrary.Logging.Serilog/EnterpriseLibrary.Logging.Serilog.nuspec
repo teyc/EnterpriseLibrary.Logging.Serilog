@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>EnterpriseLibrary.Logging.Serilog</id>
+    <id>Contrib.EnterpriseLibrary.Logging.Serilog</id>
     <version>$version$</version>
     <title>$title$</title>
     <authors>Chui Tey</authors>
     <owners></owners>
-    <licenseUrl>https://github.com/teyc/EnterpriseLibrary.Logging.Serilog/LICENSE.TXT</licenseUrl>
+    <license type="expression">MIT</license>
     <projectUrl>https://github.com/teyc/EnterpriseLibrary.Logging.Serilog</projectUrl>
     <iconUrl>https://github.com/teyc/EnterpriseLibrary.Logging.Serilog/EnterpriseLibrary.Logging.Serilog/EnterpriseLibrary.Logging.Serilog.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Supports sending Enterprise Library log calls through Serilog</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <releaseNotes>Initial release</releaseNotes>
     <copyright>Copyright 2019</copyright>
     <tags>lab logging entlib Enterprise LOB tracing Library Serilog</tags>
   </metadata>
